@@ -1,0 +1,15 @@
+{
+    "name": "tomjn/springinfo",
+    "description": "Provides some extra help for compatability in themes with springinfo automation",
+    "license": "GPL-V2.0",
+    "authors": [
+        {
+            "name": "Tom J Nowell",
+            "email": "contact@tomjn.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
